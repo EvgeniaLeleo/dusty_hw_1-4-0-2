@@ -1,0 +1,62 @@
+.forest {
+  font: 0/0 a;
+
+  width: 1408px;
+  height: 650px;
+
+  background-color: #e9ece0;
+}
+
+.forest-map {
+  width: 704px;
+  height: 100%;
+}
+
+.forest-description {
+  display: inline-block;
+
+  vertical-align: top;
+
+  width: 704px;
+  padding: 150px 130px 150px 110px;
+  box-sizing: border-box;
+}
+
+.description-title,
+.description-text,
+.description-footer {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.description-title {
+  color: #5b6460;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.description-text {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.875;
+  color: #333;
+
+  margin: 0;
+}
+
+.description-footer {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.875;
+  text-decoration: underline;
+  color: #5b6460;
+
+  margin-top: 20px;
+  margin-bottom: 0;
+}
