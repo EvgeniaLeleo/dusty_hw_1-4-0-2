@@ -29,11 +29,10 @@
 }
 
 .description-title {
-  color: #5b6460;
   font-size: 40px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1;
+  color: #5b6460;
 
   margin-top: 0;
   margin-bottom: 50px;
@@ -41,7 +40,6 @@
 
 .description-text {
   font-size: 16px;
-  font-style: normal;
   font-weight: 300;
   line-height: 1.875;
   color: #333;
